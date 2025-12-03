@@ -6,12 +6,12 @@ This project contains a Forge plugin written in Javascript that determines the r
 This Forge plugin uses a custom weighted scoring algorithm to match unassigned Jira issues with the most suitable team members. 
 The system analyzes multiple factors including labels, components, issue types, historical assignments, worklogs, comments, and current capacity to make data-driven assignment recommendations.
 
-## Key Features
-Issue Panel UI: View recommendations, assign with one click, or decline
-Admin Control Panel: Bulk assignment operations across epics, labels, and tasks with configurable criteria
-Evidence Transparency: Detailed breakdown showing why each candidate was recommended
-Decline Workflow: Users can opt-out, triggering automatic recalculation
-Performance Optimised: Event-driven caching with Forge KVS for efficient data access
+#### Key Features
+- Issue Panel UI: View recommendations, assign with one click, or decline
+- Admin Control Panel: Bulk assignment operations across epics, labels, and tasks with configurable criteria
+- Evidence Transparency: Detailed breakdown showing why each candidate was recommended
+- Decline Workflow: Users can opt-out, triggering automatic recalculation
+- Performance Optimised: Event-driven caching with Forge KVS for efficient data access
 
 ## Project Attribution
 
