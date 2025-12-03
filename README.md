@@ -2,6 +2,16 @@
 
 This project contains a Forge plugin written in Javascript that determines the recommended assignee to unassigned Jira issues.
 
+## Project Attribution
+
+This project originated as a collaborative capstone project completed by a team of six members during Term 3 at UNSW.
+
+This repository represents an individually maintained version of that project.
+
+**Original Team Members:** Jake Lai, Humza Ahmad, Benny Situ, Derek Zhang, Joyce Geng, Sreyam Bhakta
+
+**Current Maintainer:** Jake Lai
+
 ## Requirements
 
 See [Set up Forge](https://developer.atlassian.com/platform/forge/set-up-forge/) for instructions to get set up.
