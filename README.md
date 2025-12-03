@@ -15,7 +15,7 @@ The system analyzes multiple factors including labels, components, issue types, 
 
 #### Project Attribution
 
-- This project originated as a collaborative capstone project completed by a team of six members during Term 3 at UNSW. <br>
+- This project originated as a group capstone project completed by a team of 6 members during Term 3 at UNSW.<br>
 This repository represents an individually maintained version of that project.
 
 **Original Team Members:** Jake Lai, Humza Ahmad, Benny Situ, Derek Zhang, Joyce Geng, Sreyam Bhakta <br>
