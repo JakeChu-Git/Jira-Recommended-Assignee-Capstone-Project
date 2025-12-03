@@ -13,13 +13,12 @@ The system analyzes multiple factors including labels, components, issue types, 
 - Decline Workflow: Users can opt-out, triggering automatic recalculation
 - Performance Optimised: Event-driven caching with Forge KVS for efficient data access
 
-## Project Attribution
+#### Project Attribution
 
-This project originated as a collaborative capstone project completed by a team of six members during Term 3 at UNSW.
+- This project originated as a collaborative capstone project completed by a team of six members during Term 3 at UNSW. <br>
 This repository represents an individually maintained version of that project.
 
-**Original Team Members:** Jake Lai, Humza Ahmad, Benny Situ, Derek Zhang, Joyce Geng, Sreyam Bhakta
-
+**Original Team Members:** Jake Lai, Humza Ahmad, Benny Situ, Derek Zhang, Joyce Geng, Sreyam Bhakta <br>
 **Current Maintainer:** Jake Lai
 
 ## Architecture
